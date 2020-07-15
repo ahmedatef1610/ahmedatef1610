@@ -1,4 +1,5 @@
 ### Hi there 👋
+![animated](https://media.tenor.com/images/334cf1e2aa89a90a274f5a4040d1a6ec/tenor.gif)
 
 <!--
 **ahmedatef1610/ahmedatef1610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
