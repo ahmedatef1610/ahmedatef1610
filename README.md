@@ -20,9 +20,9 @@
     ![website](https://img.shields.io/badge/My%20Website-ff0000?style=flat&logo=google-chrome&logoColor=white&logoWidth=20)
 ][website]
 
-- I'm a Computer Engineer 👨‍💻
-- I worked as a Full Stack Software Engineer 👨‍💻
-- I worked as an Artificial Intelligence (AI) Engineer 👨‍💻
+- I'm a Computer Engineer 👨‍💻🖥️
+- I worked as a Full Stack Software Engineer 👨‍💻🌐
+- I worked as an Artificial Intelligence (AI) Engineer 👨‍💻🤖
 - I'm working on Web Development (frontend-backend) field 📡🌐
 - I'm working on Data Analysis (EDA) field 📈📊
 - I'm working on Machine Learning and Deep Learning field 🤖📖
