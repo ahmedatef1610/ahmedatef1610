@@ -5,6 +5,7 @@
 <div>
 
 ![profile](https://gpvc.arturio.dev/ahmedatef1610)
+![profile](https://komarev.com/ghpvc/?username=ahmedatef1610&style=flat&label=views)
 [
     ![facebook](https://img.shields.io/badge/ahmed%20m.atef-blue?style=flat&logo=facebook&logoColor=white&logoWidth=20)
 ][facebook]
@@ -14,6 +15,10 @@
 [
     ![website](https://img.shields.io/badge/My%20Website-ff0000?style=flat&logo=google-chrome&logoColor=white&logoWidth=20)
 ][website]
+
+- I'm a Computer Engineer 🖥⌨🖱 
+- I Full Stack Software Engineer 📡🌐 💻 
+- Study in Shoubra Faculty of Engineering 🏫
 
 </div>
 <div>
