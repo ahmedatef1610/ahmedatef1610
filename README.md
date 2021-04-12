@@ -17,8 +17,8 @@
 ][website]
 
 - I'm a Computer Engineer 🖥⌨🖱 
-- I Full Stack Software Engineer 📡🌐 💻 
-- Study in Shoubra Faculty of Engineering 🏫
+- I'm working Full Stack Software Engineer 📡🌐 💻 
+- I'm Studying at Shoubra Faculty of Engineering 🏫
 
 </div>
 <div>
