@@ -17,12 +17,15 @@
 ][website]
 
 - I'm a Computer Engineer 🖥⌨🖱 
-- I'm working Full Stack Software Engineer 📡🌐 💻 
+- I'm working as a Full Stack Software Engineer 💻 
+- I'm working on web development field 📡🌐
+- I'm working on Machine Learning and Deep Learning field 🤖📖
+- I'm working on Computer Vision field 👁️🖥️
 - I'm Studying at Shoubra Faculty of Engineering 🏫
 
 </div>
 <div>
-    <img src="https://media.tenor.com/images/334cf1e2aa89a90a274f5a4040d1a6ec/tenor.gif" alt="">
+    <img align="right" src="https://media.tenor.com/images/334cf1e2aa89a90a274f5a4040d1a6ec/tenor.gif" alt="">
 </div>
 </div>
 
