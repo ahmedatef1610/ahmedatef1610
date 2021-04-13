@@ -3,10 +3,6 @@
 <div style="display:flex;justify-content: space-between;flex-wrap: no-wrap">
 
 <div>
-    <img align="right" src="https://media.tenor.com/images/334cf1e2aa89a90a274f5a4040d1a6ec/tenor.gif" alt="">
-</div>
-
-<div>
 
 ![profile](https://gpvc.arturio.dev/ahmedatef1610)
 ![profile](https://komarev.com/ghpvc/?username=ahmedatef1610&style=flat&label=views)
@@ -17,7 +13,10 @@
     ![github](https://img.shields.io/badge/ahmedatef1610-333333?style=flat&logo=github&logoColor=white&logoWidth=20)
 ][github]
 [
-    ![website](https://img.shields.io/badge/My%20Website-ff0000?style=flat&logo=google-chrome&logoColor=white&logoWidth=20)
+    ![gmail](https://img.shields.io/badge/Gmail-ff0000?style=flat&logo=gmail&logoColor=white&logoWidth=20)
+][gmail]
+[
+    ![website](https://img.shields.io/badge/Website-ff8800?style=flat&logo=google-chrome&logoColor=white&logoWidth=20)
 ][website]
 
 - I'm a Computer Engineer 👨‍💻🖥️
@@ -33,7 +32,9 @@
 - I'm Studying at Shoubra Faculty of Engineering 🏫
 
 </div>
-
+<div>
+    <img align="right" src="https://media.tenor.com/images/334cf1e2aa89a90a274f5a4040d1a6ec/tenor.gif" alt="">
+</div>
 </div>
 
 ---
@@ -49,3 +50,4 @@
 [website]: https://aae-tech.com/
 [facebook]: https://www.facebook.com/ahmed.m.atef.1610/
 [github]: https://github.com/ahmedatef1610
+[gmail]: mailto:ahmedatef1610@gmail.com
