@@ -8,8 +8,13 @@
     
 <div>
 
+<span style="display:none;">
+
 ![profile](https://gpvc.arturio.dev/ahmedatef1610)
 ![profile](https://komarev.com/ghpvc/?username=ahmedatef1610&style=flat&label=views)
+
+</span>
+
 [
     ![facebook](https://img.shields.io/badge/ahmed%20m.atef-blue?style=flat&logo=facebook&logoColor=white&logoWidth=20)
 ][facebook]
