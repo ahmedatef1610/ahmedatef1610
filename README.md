@@ -13,10 +13,8 @@
 ![profile](https://komarev.com/ghpvc/?username=ahmedatef1610&style=flat&label=views)
 </div> -->
 
-<span hidden>
 <img src="https://gpvc.arturio.dev/ahmedatef1610" alt="profile" width="0" height="0">
 <img src="https://komarev.com/ghpvc/?username=ahmedatef1610&style=flat&label=views" alt="profile" width="0" height="0">
-</span>
 
 [
     ![facebook](https://img.shields.io/badge/ahmed%20m.atef-blue?style=flat&logo=facebook&logoColor=white&logoWidth=20)
