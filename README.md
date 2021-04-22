@@ -8,8 +8,8 @@
     
 <div>
 
-<!-- ![profile](https://gpvc.arturio.dev/ahmedatef1610)
-![profile](https://komarev.com/ghpvc/?username=ahmedatef1610&style=flat&label=views) -->
+
+
 [
     ![facebook](https://img.shields.io/badge/ahmed%20m.atef-blue?style=flat&logo=facebook&logoColor=white&logoWidth=20)
 ][facebook]
@@ -22,6 +22,14 @@
 [
     ![website](https://img.shields.io/badge/Website-ff8800?style=flat&logo=google-chrome&logoColor=white&logoWidth=20)
 ][website]
+<details>
+<summary></summary>
+<p>
+
+![profile](https://gpvc.arturio.dev/ahmedatef1610)
+![profile](https://komarev.com/ghpvc/?username=ahmedatef1610&style=flat&label=views)
+</p>
+</details>
 
 - I'm a Computer Engineer 👨‍💻🖥️
 - I worked as a Full Stack Software Engineer 👨‍💻🌐
