@@ -8,12 +8,15 @@
     
 <div>
 
-<span hidden>
-    
+<!-- <div hidden>
 ![profile](https://gpvc.arturio.dev/ahmedatef1610)
 ![profile](https://komarev.com/ghpvc/?username=ahmedatef1610&style=flat&label=views)
-</span>
+</div> -->
 
+<div hidden>
+<img src="https://gpvc.arturio.dev/ahmedatef1610" alt="profile">
+<img src="https://komarev.com/ghpvc/?username=ahmedatef1610&style=flat&label=views" alt="profile">
+</div>
 
 [
     ![facebook](https://img.shields.io/badge/ahmed%20m.atef-blue?style=flat&logo=facebook&logoColor=white&logoWidth=20)
