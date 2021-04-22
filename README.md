@@ -13,8 +13,6 @@
 ![profile](https://komarev.com/ghpvc/?username=ahmedatef1610&style=flat&label=views)
 </div> -->
 
-<img src="https://gpvc.arturio.dev/ahmedatef1610" alt="profile" width="0" height="0">
-<img src="https://komarev.com/ghpvc/?username=ahmedatef1610&style=flat&label=views" alt="profile" width="0" height="0">
 
 [
     ![facebook](https://img.shields.io/badge/ahmed%20m.atef-blue?style=flat&logo=facebook&logoColor=white&logoWidth=20)
@@ -59,3 +57,10 @@
 [facebook]: https://www.facebook.com/ahmed.m.atef.1610/
 [github]: https://github.com/ahmedatef1610
 [gmail]: mailto:ahmedatef1610@gmail.com
+
+
+
+<div hidden width="0" height="0" style="display:none;">
+<img src="https://gpvc.arturio.dev/ahmedatef1610" alt="profile" width="0" height="0" hidden style="display:none;">
+<img src="https://komarev.com/ghpvc/?username=ahmedatef1610&style=flat&label=views" alt="profile" width="0" height="0" hidden style="display:none;">
+</div>
