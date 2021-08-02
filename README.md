@@ -30,7 +30,7 @@
     ![website](https://img.shields.io/badge/Website-ff8800?style=flat&logo=google-chrome&logoColor=white&logoWidth=20)
 ][website]
 [
-    ![Resume](https://img.shields.io/badge/Resume-ff8800?style=flat&logo=google-chrome&logoColor=white&logoWidth=20)
+    ![Resume](https://img.shields.io/badge/Resume%20(CV)-00f?style=flat&logo=Files&logoColor=white&logoWidth=20)
 ][Resume]
 
 - I'm a Computer Engineer 👨‍💻🖥️
