@@ -18,6 +18,9 @@
     ![facebook](https://img.shields.io/badge/ahmed%20m.atef-blue?style=flat&logo=facebook&logoColor=white&logoWidth=20)
 ][facebook]
 [
+    ![linkedin](https://img.shields.io/badge/ahmedatef1610-0A66C2?style=flat&logo=linkedin&logoColor=white&logoWidth=20)
+][linkedin]
+[
     ![github](https://img.shields.io/badge/ahmedatef1610-333333?style=flat&logo=github&logoColor=white&logoWidth=20)
 ][github]
 [
@@ -26,6 +29,9 @@
 [
     ![website](https://img.shields.io/badge/Website-ff8800?style=flat&logo=google-chrome&logoColor=white&logoWidth=20)
 ][website]
+[
+    ![Resume](https://img.shields.io/badge/Resume-ff8800?style=flat&logo=google-chrome&logoColor=white&logoWidth=20)
+][Resume]
 
 - I'm a Computer Engineer 👨‍💻🖥️
 - I worked as a Full Stack Software Engineer 👨‍💻🌐
