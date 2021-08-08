@@ -35,7 +35,6 @@
 
 - I'm a Computer Engineer 👨‍💻🖥️
 - I worked as a Full Stack Software Engineer 👨‍💻🌐
-- I worked as an Artificial Intelligence (AI) Engineer 👨‍💻🤖
 - I worked as a Machine Learning (ML) Engineer 👨‍💻🤖📖
 - I worked as a data Engineer 👨‍💻🗃️🗄️
 - I worked as a Computer Vision (CV) Engineer 👨‍💻👁️🖥️
