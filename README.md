@@ -33,7 +33,6 @@
     ![Resume](https://img.shields.io/badge/Resume%20(CV)-00f?style=flat&logo=Files&logoColor=white&logoWidth=20)
 ][Resume]
 
-- I'm a Computer Engineer 👨‍💻🖥️
 - I worked on Web Development (frontend-backend) field 📡🌐
 - I worked on Data Analysis (EDA) field 📈📊
 - I worked on Machine Learning and Deep Learning field 🤖📖
