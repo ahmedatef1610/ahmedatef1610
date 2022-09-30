@@ -38,7 +38,7 @@
 - I worked on Data Analysis (EDA) field 📈📊
 - I worked on Machine Learning and Deep Learning field 🤖📖
 - I worked on Computer Vision field 👁️🖥️
-- I Studied at Shoubra Faculty of Engineering 🏫
+- I studied at Shoubra Faculty of Engineering 🏫
 
 </div>
 
