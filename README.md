@@ -21,7 +21,7 @@
 
 - I am a software engineer with expertise in Python, Ruby, JavaScript, and various frameworks and technologies. 
 
-- I have a diverse background and experience in multiple fields, including web development, data analysis, machine learning, deep learning, and computer vision. With a strong foundation in engineering principles from my studies, I bring a comprehensive skill set to my work with a strong problem-solving aptitude and a passion for delivering high-quality solutions allows me to tackle complex challenges. 
+- I have a diverse background and experience in multiple fields, including web development, web scraping, data analysis, machine learning, deep learning, and computer vision. With a strong foundation in engineering principles from my studies, I bring a comprehensive skill set to my work with a strong problem-solving aptitude and a passion for delivering high-quality solutions allows me to tackle complex challenges. 
 
 - I am motivated, detail-oriented, and have a proven ability to work independently and meet clients' needs.
 
