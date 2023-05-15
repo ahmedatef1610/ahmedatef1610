@@ -38,11 +38,11 @@
 - 👁️ **Computer Vision**: I have practical knowledge in computer vision, enabling machines to understand and interpret visual data.
 
 
-
+---
 
 > Feel free to explore my repositories to see my work in action. Let's connect and collaborate on exciting projects! and please have a look at my [Resume (CV)][Resume] for more details about me. 📄
 
-
+---
 
 
 ## 🤝 Connect with me on:
