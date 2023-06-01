@@ -102,7 +102,7 @@
 [github]: https://github.com/ahmedatef1610
 [gmail]: mailto:ahmedatef1610@gmail.com
 [linkedin]: https://www.linkedin.com/in/ahmedatef1610/
-[Resume]: https://drive.google.com/file/d/1llB8wgkVaUyZCaG9JC48wcw6OHi1OYWy/view?usp=sharing
+[Resume]: https://l.linklyhq.com/l/1o0Qu
 
 <!-- variables end -->
 
